@@ -1,0 +1,2 @@
+CompileFlags:
+    Add: [-std=c++17, -Weverything, -Wno-c++98-compat] # compile in c++17, enable all warnings except annoying c++98 compatibility
